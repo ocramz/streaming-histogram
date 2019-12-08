@@ -1,5 +1,5 @@
 # streaming-histogram
 
-Histograms in constant memory
+[![Build Status](https://travis-ci.org/ocramz/streaming-histogram.png)](https://travis-ci.org/ocramz/streaming-histogram)
 
-test
+Histograms in constant memory
